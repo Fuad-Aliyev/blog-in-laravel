@@ -1,2 +1,2 @@
 # blog-in-laravel
-multi user bog
+multi user blog
